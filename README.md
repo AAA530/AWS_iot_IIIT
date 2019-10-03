@@ -9,7 +9,8 @@ we are using linkit one as micro-controller.
 
 3. LinkIt ONE SDK (for Arduino) offering instant familiarity to Arduino developers and a easy to learn toolset for beginners
 
-4. This code publishes message to topic='dhairya' on aws iot core
+# NOTE
+This code publishes message to topic='dhairya' on aws iot core
 you have to store data recevied to dyanamodb or any other database
 
 # JSON_to_TOPIC
