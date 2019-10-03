@@ -2,7 +2,7 @@
 
 we are using linkit one as micro-controller.
 
-# Key features of linkit
+# Key features of linkit one
 1. All-in-One connectivity: Based on MediaTek MT2502A SoC, offering comprehensive communications and media options, with support for GSM, GPRS, Bluetooth 2.1 and 4.0, SD Cards, and MP3/AAC Audio, as well as Wi-Fi and GNSS (hardware dependent)
 
 2. LinkIt ONE development board from partner Seeed Studio with similar pin-out to the Arduino UNO enabling a wide range of peripheral and circuits to be connected to the board
